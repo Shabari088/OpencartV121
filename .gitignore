@@ -1,0 +1,44 @@
+# =========================
+# Compiled class files
+# =========================
+*.class
+
+# =========================
+# Java package files
+# =========================
+*.jar
+*.war
+*.ear
+
+# =========================
+# Eclipse specific files
+# =========================
+.settings/
+.project
+.classpath
+*.launch
+
+# =========================
+# Build output directories
+# =========================
+bin/
+target/
+
+# =========================
+# Manifest files (optional)
+# =========================
+META-INF/MANIFEST.MF
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Operating system files
+# =========================
+.DS_Store        # macOS
+Thumbs.db        # Windows
