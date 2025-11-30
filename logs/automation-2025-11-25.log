@@ -1,0 +1,64 @@
+20:25:54.984 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Starting TC002_LoginTest ******
+20:25:55.061 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Account Link ******
+20:25:55.434 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Login Link ******
+20:25:55.894 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Validating My Account Page Exists ******
+20:26:05.959 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Ending TC002_LoginTest ******
+20:26:05.962 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Starting TC002_LoginTest ******
+20:26:06.010 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Account Link ******
+20:26:06.353 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Login Link ******
+20:26:06.549 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Validating My Account Page Exists ******
+20:26:16.856 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Ending TC002_LoginTest ******
+20:26:16.859 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Starting TC002_LoginTest ******
+20:26:16.909 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Account Link ******
+20:26:17.147 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Clicked on My Login Link ******
+20:26:17.259 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Validating My Account Page Exists ******
+20:26:27.309 [main] INFO  testCases.TC003_LoginDataDrivenTest - ****** Ending TC002_LoginTest ******
+19:10:32.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:10:54.422 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:13:02.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:13:12.642 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:13:13.008 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:13:13.711 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:13:14.595 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:13:14.666 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:47:50.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:47:52.825 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:47:53.172 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:47:53.697 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:47:53.897 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:47:54.363 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:49:41.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:49:44.187 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:49:44.431 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:49:44.894 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:49:45.519 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:49:45.595 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:52:06.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:52:08.637 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:52:08.736 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:52:09.176 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:52:09.387 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:54:38.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:54:40.793 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:54:40.911 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:54:41.367 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:54:41.577 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:55:21.731 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:55:23.741 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:55:24.111 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******

@@ -1,0 +1,53 @@
+19:11:13.371 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:11:13.440 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:11:47.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\testng.xml
+
+19:11:49.452 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+19:11:49.691 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on My Account Link ******
+19:11:50.065 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on Register Link ******
+19:11:50.067 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Enter the Regestration Details ******
+19:11:53.216 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Validating Account has be created ******
+19:11:53.278 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Ending TC001_AccountRegistrationTest ******
+19:13:05.475 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:13:05.772 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:13:06.188 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:13:06.384 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:13:06.736 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:13:08.372 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+19:13:08.646 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on My Account Link ******
+19:13:09.040 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on Register Link ******
+19:13:09.044 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Enter the Regestration Details ******
+19:13:09.469 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Validating Account has be created ******
+19:13:12.013 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Ending TC001_AccountRegistrationTest ******
+19:34:38.732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\parallel.xml
+
+19:34:46.846 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:34:46.846 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+19:34:46.965 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on My Account Link ******
+19:34:47.012 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:36:49.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shaba\eclipse-workspace\OpencartV121\grouping.xml
+
+19:36:51.291 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:36:51.565 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:36:52.567 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:36:53.570 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:36:53.628 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:36:55.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+19:36:55.631 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on My Account Link ******
+19:36:56.388 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on Register Link ******
+19:36:56.411 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Enter the Regestration Details ******
+19:36:56.962 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Validating Account has be created ******
+19:36:59.766 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Ending TC001_AccountRegistrationTest ******
+19:38:32.807 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest ******
+19:38:33.051 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Account Link ******
+19:38:33.494 [main] INFO  testCases.TC002_LoginTest - ****** Clicked on My Login Link ******
+19:38:33.742 [main] INFO  testCases.TC002_LoginTest - ****** Validating My Account Text ******
+19:38:34.147 [main] INFO  testCases.TC002_LoginTest - ****** Ending TC002_LoginTest ******
+19:38:35.800 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+19:38:36.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on My Account Link ******
+19:38:36.493 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Clicked on Register Link ******
+19:38:36.493 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Enter the Regestration Details ******
+19:38:39.370 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Validating Account has be created ******
